@@ -1,0 +1,5 @@
+Hello
+I am at SQI today
+I am a student
+I love Python
+Python is amazing
